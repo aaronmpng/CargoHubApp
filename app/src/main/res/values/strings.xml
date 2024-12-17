@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">projectCargoHubApp</string>
+
+    <!-- General Strings -->
+    <string name="baseUrl">https://cargohubcdm.azurewebsites.net/api/</string>
+    <string name="openGallery">Open gallery</string>
+    <string name="openCamera">Open camera</string>
+    <string name="uploadImage">upload image</string>
+    <string name="takePhoto">Take photo</string>
+    <string name="noPermission">Missing location permission</string>
+    <string name="noGPS">GPS is disabled</string>
+    <string name="Location">location</string>
+    <string name="trackLocation">Tracking location</string>
+    <string name="locationNull">Location: null</string>
+    <string name="actionStart">ACTION_START</string>
+    <string name="actionStop">ACTION_STOP</string>
+    <string name="back">Back</string>
+    <string name="comment">Comment</string>
+    <string name="dropDownArrow">Drop-Down Arrow</string>
+
+    <!-- Check-In Process Strings -->
+    <string name="checkInProcess">Check in process</string>
+    <string name="Planned">PLANNED</string>
+    <string name="planned">Planned trip</string>
+    <string name="cancel">Cancel</string>
+    <string name="arrivedAtDestination">Arrived at destination</string>
+
+    <!-- Trip Strings -->
+    <string name="plannedTrip">Planned Trips</string>
+    <string name="activeTrip">Active trip</string>
+    <string name="closedTrips">Closed Trip</string>
+
+    <!-- Check-Out Process Strings -->
+    <string name="checkOutProcess">Check out process</string>
+    <string name="active">ACTIVE</string>
+    <string name="Loaded">LOADED</string>
+    <string name="loaded">Loaded</string>
+    <string name="closed">CLOSED</string>
+    <string name="confirm">Confirm</string>
+    <string name="gateIn">(1) Gate in</string>
+    <string name="officeIn">(2) Office in</string>
+    <string name="loadOrders">(3) Load orders</string>
+    <string name="officeOut">(4) Office out</string>
+    <string name="gateOut">(5) Gate out</string>
+    <string name="startTrip">Start trip</string>
+    <string name="pause">pause</string>
+    <string name="start">start</string>
+    <string name="finishTrip">Finish trip</string>
+    <string name="tripToday">Trip today</string>
+    <string name="confirmOrder">Confirm order</string>
+    <string name="finishLoading">Finish loading</string>
+    <string name="reportDamage">Report damage</string>
+    <string name="loadingImage">Loading Image</string>
+    <string name="finishLoadingImage">Add finish loading image</string>
+    <string name="loadOrderTrip">Load orders - Trip</string>
+    <string name="notAuthorized">You are not authorized</string>
+    <string name="wrongCredentials">Wrong credentials</string>
+
+    <!-- Login Strings -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="typeEmail">Type in Email</string>
+    <string name="password">Password</string>
+    <string name="typePassword">Type in password</string>
+    <string name="image">Image</string>
+
+    <!-- Unload Order Trip Strings -->
+    <string name="unloadOrderTrip">Unload orders - Trip</string>
+    <string name="pickupTime">Pickup time</string>
+    <string name="timeslot">Time slot</string>
+    <string name="handler">Handler</string>
+    <string name="orderNr">Order nr</string>
+    <string name="notLoaded">Not loaded</string>
+    <string name="notUnLoaded">Not unloaded</string>
+    <string name="unloaded">Unloaded</string>
+    <string name="airwayBills">Airway bills</string>
+    <string name="pieces">Pieces</string>
+</resources>
